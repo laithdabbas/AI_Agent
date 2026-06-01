@@ -114,8 +114,8 @@ finish_reason   tool_calls
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/libero-chatbot.git
-cd libero-chatbot
+git clone https://github.com/laithdabbas/AI_Agent
+cd AI_Agent
 
 # Install dependencies
 pip install -r requirements.txt
